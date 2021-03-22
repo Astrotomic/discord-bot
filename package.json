@@ -1,0 +1,13 @@
+{
+  "name": "@astrotomic/discord-bot",
+  "main": "index.js",
+  "repository": "https://github.com/Astrotomic/discord-bot.git",
+  "author": "Tom Witkowski <dev.gummibeer@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@octokit/rest": "^18.3.5",
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
